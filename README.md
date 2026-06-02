@@ -1,5 +1,3 @@
-# crop-yield-predictor
-
 # 🌾 Crop Yield Predictor API
 
 A production-ready machine learning API that predicts agricultural crop yields based on environmental and farming conditions. Built with FastAPI and deployed on Railway.
