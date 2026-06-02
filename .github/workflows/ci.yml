@@ -19,5 +19,7 @@ jobs:
         run: make install
       - name: Format check
         run: black --check .
+      - name: Train model
+        run: python model/train.py
       - name: Run tests
         run: pytest tests/ -v
