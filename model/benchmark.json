@@ -1,0 +1,14 @@
+{
+  "LinearRegression": {
+    "RMSE": 81501.76,
+    "R2": 0.0843
+  },
+  "RandomForest": {
+    "RMSE": 10178.15,
+    "R2": 0.9857
+  },
+  "XGBoost": {
+    "RMSE": 13451.95,
+    "R2": 0.9751
+  }
+}
